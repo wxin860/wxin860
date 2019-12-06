@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="assignment7.main" target="1.8" />
+      <module name="assignment7.test" target="1.8" />
+      <module name="Assignment8.assignment7.main" target="1.8" />
+      <module name="Assignment8.assignment7.test" target="1.8" />
+      <module name="Assignment8.edu.neu.khoury.pdp.assignment7.main" target="1.8" />
+      <module name="Assignment8.edu.neu.khoury.pdp.assignment7.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
